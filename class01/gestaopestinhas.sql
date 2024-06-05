@@ -17,3 +17,6 @@ CREATE TABLE `gestaoalunos`.`alunos` (
 	DROP TABLE alunos; -> Excluir tabelas da tua BD
 */
 
+/* 03 -> 
+
+*/
