@@ -1,7 +1,8 @@
 /*
 	CREATE DATABASE 'livraria'
 	CHARACTER SET utf8mb4
-	COLLATE utf8mb4_0900_ai_ci;
+	COLLATE utf8mb4_0900_ai_ci; -> ai = ACCENT INSENSSITIVE E ci = CASE INSENSSITIVE
+    
     ------------------------------
     DROP DATABASE gestaoalunos; -> Para excluir tua BD
 */
