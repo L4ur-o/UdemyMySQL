@@ -66,7 +66,7 @@ SELECT * FROM card;
 | id_card | cardname               | tipo    | imagem_url                                           |
 +---------+------------------------+---------+------------------------------------------------------+
 | 1       | Blue Eyes White Dragon | Monstro | 'URL do Blue Eyes'                                   |
-| 2       | Necrovalley            | Magia   |'URL do Necrovalley'                                 |
+| 2       | Necrovalley            | Magia   |'URL do Necrovalley'                                  |
 +---------+------------------------+---------+------------------------------------------------------+
 */
 
