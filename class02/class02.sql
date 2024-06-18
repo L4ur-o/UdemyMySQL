@@ -89,7 +89,6 @@ JOIN card ca ON cc.id_card = ca.id_card;
 | id_collection| nome_colecao             | id_card | cardname               | tipo    |
 +--------------+--------------------------+---------+------------------------+---------+
 | 1            | Coleção de Seto Kaiba    | 1       | Blue Eyes White Dragon | Monstro |
-| 1            | Coleção de Seto Kaiba    | 2       | Necrovalley            | Magia   |
 | 2            | Coleção de Ishizu Ishitar| 2       | Necrovalley            | Magia   |
 +--------------+--------------------------+---------+------------------------+---------+
 */
